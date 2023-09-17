@@ -11,7 +11,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <div id="badges"  align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/akshhay-km-7b636a291/)">
+  <a href="[[your-linkedin-URL](https://www.linkedin.com/in/akshhay-km-7b636a291/)](https://www.linkedin.com/in/akshhay-km-7b636a291/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
