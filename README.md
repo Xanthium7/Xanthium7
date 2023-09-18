@@ -50,7 +50,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/Xanthium7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xanthium7&layout=compact&theme=vision-friendly-dark)](https://github.com/Xanthium7/github-readme-stats)
 
 
 
