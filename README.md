@@ -97,6 +97,6 @@ const Akshhay = {
 };
 
 ```
-<p >
+<p align="center">
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
