@@ -73,7 +73,7 @@
 ---
 
 <br></br>
-## For people who speak "Code" :) ✨✨
+## For people who speak "Code" ;) ✨✨
 <br></br>
 
 
