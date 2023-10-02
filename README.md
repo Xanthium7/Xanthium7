@@ -45,7 +45,7 @@
 
 - 📫 How to reach me **akshhaykmurali@gmail.com**
 
-- ⚡ Fun fact **I think specs makes u cooler 🕶️**
+- ⚡ Fun fact **I think Glasses makes u cooler 🕶️**
 
 ---
 
