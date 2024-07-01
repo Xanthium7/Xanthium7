@@ -94,7 +94,7 @@ const Akshhay = {
         databases: ["Firebase", "MySql", "sqlite"],
         misc: ["open-cv"]
     },
-    architecture: [, "Progressive web applications", "Single page applications"],
+    architecture: [, "Progressive web applications", "AI softwares"],
     currentFocus: "LEARNN MOREE",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
