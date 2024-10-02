@@ -3,9 +3,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
+  
 </div>
 <h1 align="center">
-  hey there
+  Heloo,
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3 align="center">Tech Enthusiast from India</h3>
@@ -79,19 +81,23 @@
 
   ```bash
 const Akshhay = {
-    pronouns: ["He" | "Him", "if" | "else"],
-    code: ["Javascript", "Python", "TypeScript", "HTML", "Tailwind"],
-    askMeAbout: ["web dev", "tech", "web designing"],
+    pronouns: ["He", "Him"],
+    code: ["JavaScript", "Python", "TypeScript", "HTML", "Tailwind CSS", "C", "Java"],
+    askMeAbout: ["Full Stack Development", "AI Engineering", "UI Design"],
     technologies: {
+        frontEnd: {
+            frameworks: ["Next.js", "React.js"],
+            styling: ["Tailwind CSS"]
+        },
         backEnd: {
-            js: ["Node", "Express"],
-        }
-        devOps: ["Firebase"],
-        databases: ["Firebase", "MySql", "sqlite"],
-        misc: ["open-cv"]
+            python: ["Django", "FAST API"],
+            js: ["Node.js"]
+        },
+        databases: ["MongoDB", "Supabase", "Google Firebase"],
+        ai: ["OpenAI", "Hugging Face", "Groq", "Ollama"],
+        misc: ["Progressive Web Apps", "LangChain"]
     },
-    architecture: [, "Progressive web applications", "AI softwares"],
-    currentFocus: "LEARNN MOREE",
+    currentFocus: "B.Tech Computer Science at Muthoot Institute Of Technology and Science",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 
