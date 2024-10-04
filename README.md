@@ -30,7 +30,9 @@
 <div  align="center">
 
   
-<a  href="https://www.buymeacoffee.com/akshhaykmu6" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a  href="https://www.buymeacoffee.com/akshhaykmu6" target="_blank"><img src="https://i.imgur.com/w3DR0fe.png" alt="Buy Me A Shawarma" height="50" width="190"></a>
+
+
 </div>
 
 <div align="center">
