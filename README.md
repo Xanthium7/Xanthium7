@@ -12,12 +12,12 @@
 </h1>
 <h3 align="center">Tech Enthusiast from India</h3>
 
-<div id="badges"  align="center">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/akshhay-km-7b636a291/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://leetcode.com/u/akshhaykmurali/" style="margin-left: 20px; margin-right: 20px;">
+    <img src="https://i.imgur.com/NM4Z9WY.png?style=for-the-badge" height="30" width="100" alt="Leetcode Badge"/>
   </a>
   <a href="https://x.com/Xanthium71">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
