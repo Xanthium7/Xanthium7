@@ -85,7 +85,7 @@
 const Akshhay = {
     pronouns: ["He", "Him"],
     code: ["JavaScript", "Python", "TypeScript", "HTML", "Tailwind CSS", "C", "Java"],
-    askMeAbout: ["Full Stack Development", "AI Engineering", "UI Design"],
+    askMeAbout: ["Full Stack Development", "AI Engineering", "UI/UX Design"],
     technologies: {
         frontEnd: {
             frameworks: ["Next.js", "React.js"],
