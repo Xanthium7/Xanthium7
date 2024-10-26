@@ -47,7 +47,6 @@
 
 ###
 
-- 🕶  **Glasses makes u cooler **
 
 ---
 
