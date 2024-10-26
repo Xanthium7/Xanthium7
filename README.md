@@ -47,7 +47,7 @@
 
 ###
 
-- ⚡ Fun fact **I think Glasses makes u cooler 🕶️**
+- 🕶  **Glasses makes u cooler **
 
 ---
 
